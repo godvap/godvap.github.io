@@ -13,3 +13,5 @@ redirect_from:
 [Resume](Resume.pdf)
 
 [Moody's Mega Math Challenge](Moody.pdf)
+
+[UH Computer Science Department](https://uh.edu/nsm/computer-science/)
