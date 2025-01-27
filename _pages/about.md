@@ -9,3 +9,7 @@ redirect_from:
 
 
 [LinkedIn](https://www.linkedin.com/in/lucas-pavlosky-58b93a271/)
+
+[Resume](Resume.pdf)
+
+[Moody's Mega Math Challenge](Moody.pdf)
