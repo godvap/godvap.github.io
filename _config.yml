@@ -22,9 +22,9 @@ repository               : "godvap/godvap.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lucas Pavlosky"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Comp Sci student at University of Houston"
   location         : "Houston, Texas"
   employer         : "University of Houston"
   uri              : # URL
@@ -146,9 +146,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-W1PXP7NXQF"
 
 
 # Reading Files
