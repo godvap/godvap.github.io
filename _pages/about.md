@@ -7,3 +7,5 @@ redirect_from:
   - /about.html
 ---
 
+
+[LinkedIn](https://www.linkedin.com/in/lucas-pavlosky-58b93a271/)
