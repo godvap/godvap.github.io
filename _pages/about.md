@@ -16,12 +16,3 @@ redirect_from:
 
 [UH Computer Science Department](https://uh.edu/nsm/computer-science/)
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TAG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-<!-- end custom analytics snippet -->	  gtag('config', YOUR_TAG');
-</script>
