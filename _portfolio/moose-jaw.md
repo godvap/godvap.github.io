@@ -1,6 +1,6 @@
 ---
 title: "University Forms Request System"
-excerpt: "A system for managing university form requests developed by Team Moose Jaw<br/><a href='https://www.youtube.com/embed/X7w3MFRCo5s'><img src='/images/500x300.png'></a>"
+excerpt: "A system for managing university form requests developed by Team Moose Jaw<br/><a href='https://www.youtube.com/embed/X7w3MFRCo5s'><img src='https://img.youtube.com/vi/X7w3MFRCo5s/maxresdefault.jpg' width='500'></a>"
 collection: portfolio
 ---
 
