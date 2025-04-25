@@ -9,8 +9,6 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Publications"
-    url: /publications/
   - title: "CV"
     url: /Resume.pdf
 
